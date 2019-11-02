@@ -17,3 +17,6 @@ course.
 - `npm config set access public --global`
 - `npm init --scope=@carltonj2000`
 - `npm publish`
+- `npm publish --tag beta`
+- `git tag 1.0.0`
+- `git push --tags`
