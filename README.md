@@ -12,3 +12,8 @@ course.
 - `npm set init-license "MIT"`
 - `npm set save-exact true`
 - `npm init`
+- `npm config set scope carltonj2000 --global`
+- `npm config set access public`
+- `npm config set access public --global`
+- `npm init --scope=@carltonj2000`
+- `npm publish`
